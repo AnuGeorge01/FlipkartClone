@@ -34,7 +34,7 @@ body{
     text-shadow: 0 1px rgba(255,255,255,.4);
     }
 .button:hover {
-    background-color: #eaeaea;
+    background-color: white;
     }
 .operator {
     color: #fff;
